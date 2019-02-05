@@ -7,11 +7,16 @@ expansions/pics/*.tmp
 
 picture/card/*.jpg
 picture/cardIn8thEdition/*.jpg
+picture/cardIn8thEdition/*.tmp
 picture/closeup/*.png
 picture/field/*.jpg
 
-YGOPro2_Data/output_log.txt
-YGOPro2_x64_Data/output_log.txt
+YGOPro2_Data/
+YGOPro2_Linux_Data/
+YGOPro2_Mac.app/
+YGOPro2.exe
+YGOPro2_Linux.x86
+YGOPro2_Linux.x86_64
 
 cdb/de-DE
 config/de-DE

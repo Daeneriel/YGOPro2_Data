@@ -6,17 +6,17 @@ expansions/pics/*.jpg
 expansions/pics/*.tmp
 
 picture/card/*.jpg
+picture/card/*.tmp
 picture/cardIn8thEdition/*.jpg
 picture/cardIn8thEdition/*.tmp
 picture/closeup/*.png
 picture/field/*.jpg
 
 YGOPro2_Data/
-YGOPro2_Linux_Data/
-YGOPro2_Mac.app/
+YGOPro2.app/
 YGOPro2.exe
-YGOPro2_Linux.x86
-YGOPro2_Linux.x86_64
+YGOPro2.x86
+YGOPro2.x86_64
 
 cdb/de-DE
 config/de-DE
